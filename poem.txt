@@ -3,5 +3,6 @@ my rainbow
 blue
 red
 indigo
+green
 purple
 these are the colours of my rainbow
